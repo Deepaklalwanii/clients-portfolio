@@ -165,11 +165,15 @@ nav {
 
 @media only screen and (max-width: 950px) {
   .header {
-    width: 950px;
+    width: 90%;
+  }
+
+  .logo a {
+    font-size: 20px;
   }
 
   #root{
-    width: 950px;
+    width: 90%;
   }
 
   .menu {
