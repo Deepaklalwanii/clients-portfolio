@@ -2,8 +2,8 @@ import React from 'react'
 
 const  Achievements = () => {
   return (
-    <div className='achievements-wrapper'>
-        <h1>Achievements</h1>
+    <div className='achievements-wrapper' >
+        <h1 id='achievements'>Achievements</h1>
         <div className='achievements-content'>
             <p>Having made remarkable strides in the field of pistol shooting, she has earned multiple accolades at the state and national levels. Clinching the Gold Medal at the Khelo India SJFI States, she proudly represented St. Joseph’s Convent Girls' School, Jabalpur, in the SJFI Nationals. Dedication and precision have also led to two Gold and one Silver medal in State Championships. As the Captain of her team, she led them to victory in the prestigious GML Shooting League, often regarded as the IPL of shooting. In 2024, securing 4th position in the Savitribai Phule Pune University Games further proved her consistency in competitive shooting.
             The journey has been marked by rigorous competition, with participation in three State Championships (Jabalpur, Indore), one Pre-National Championship (Mumbai), and seven National Championships, including high-profile events such as the Indian Opens and KSS Matches (Bhopal, Delhi, Indore). Playing in four Indian Team Selection Trials Matches (Bhopal, Faridabad) has been a significant step toward representing India at the international level. Additionally, skills have been showcased in various other tournaments, including the YMCA Competitions and the GML League.

@@ -65,6 +65,7 @@ nav {
   font-weight: 500;
   transition: 0.2s all ease-in-out;
   color: #414a39;
+  cursor: pointer;
 }
 
 .menu:hover a {
