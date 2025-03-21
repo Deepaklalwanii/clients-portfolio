@@ -10,16 +10,16 @@ const  Achievements = () => {
             With a personal best score of 556 and a best series of 98, limits continue to be pushed. Training has now expanded to 25m pistol shooting, leveraging speed and accuracy to compete at an elite level. With relentless determination and a vision to excel on the global stage, the goal is to make a lasting impact on the sport.</p>
         </div>
         <div className='image-container'>
-             <img src="public/images/0.jpg" />
-            <img src="public/images/1.jpg" />
-            <img src="public/images/6.jpg" />
-            <img src="public/images/8.jpg" />
-            <img src="public/images/9.jpg" />
-            <img src="public/images/10.jpg" />
-            <img src="public/images/15.jpg" />
-            <img src="public/images/18.jpg" />
-            <img src="public/images/20.jpg" />
-            <img src="public/images/21.jpg" />
+        <img src='https://i.postimg.cc/BbSwNFX4/0.jpg'/>
+        <img src='https://i.postimg.cc/zXfcgTsk/1.jpg' />
+        <img src='https://i.postimg.cc/qvhDm4Mh/10.jpg' />
+        <img src='https://i.postimg.cc/1zDCQBFy/15.jpg' />
+        <img src='https://i.postimg.cc/MTD9cGt4/18.jpg'/>
+        <img src='https://i.postimg.cc/ZRZfKNPp/20.jpg' />
+        <img src='https://i.postimg.cc/J0zPjW2h/21.jpg'/>
+        <img src='https://i.postimg.cc/h4sYv25j/6.jpg' />
+        <img src='https://i.postimg.cc/RZksyyNP/8.jpg'/>
+        <img src='https://i.postimg.cc/9FNNtrVH/9.jpg' />
         </div>
         
     </div>
