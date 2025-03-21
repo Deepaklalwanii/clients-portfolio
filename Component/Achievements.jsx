@@ -10,16 +10,16 @@ const  Achievements = () => {
             With a personal best score of 556 and a best series of 98, limits continue to be pushed. Training has now expanded to 25m pistol shooting, leveraging speed and accuracy to compete at an elite level. With relentless determination and a vision to excel on the global stage, the goal is to make a lasting impact on the sport.</p>
         </div>
         <div className='image-container'>
-            <img src="src/images/0.jpg" />
-            <img src="src/images/1.jpg" />
-            <img src="src/images/6.jpg" />
-            <img src="src/images/8.jpg" />
-            <img src="src/images/9.jpg" />
-            <img src="src/images/10.jpg" />
-            <img src="src/images/15.jpg" />
-            <img src="src/images/18.jpg" />
-            <img src="src/images/20.jpg" />
-            <img src="src/images/21.jpg" />
+             <img src="public/images/0.jpg" />
+            <img src="public/images/1.jpg" />
+            <img src="public/images/6.jpg" />
+            <img src="public/images/8.jpg" />
+            <img src="public/images/9.jpg" />
+            <img src="public/images/10.jpg" />
+            <img src="public/images/15.jpg" />
+            <img src="public/images/18.jpg" />
+            <img src="public/images/20.jpg" />
+            <img src="public/images/21.jpg" />
         </div>
         
     </div>
