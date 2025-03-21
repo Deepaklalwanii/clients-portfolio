@@ -10,17 +10,16 @@ const  Achievements = () => {
             With a personal best score of 556 and a best series of 98, limits continue to be pushed. Training has now expanded to 25m pistol shooting, leveraging speed and accuracy to compete at an elite level. With relentless determination and a vision to excel on the global stage, the goal is to make a lasting impact on the sport.</p>
         </div>
         <div className='image-container'>
-            <img src="src\assets\Image to PDF 20250320 23.53.00\0.jpg" />
-            <img src="src\assets\Image to PDF 20250320 23.53.00\1.jpg" />
-            <img src="src\assets\Image to PDF 20250320 23.53.00\6.jpg" />
-            {/* <img src="src\assets\Image to PDF 20250320 23.53.00\7.jpg" /> */}
-            <img src="src\assets\Image to PDF 20250320 23.53.00\8.jpg" />
-            <img src="src\assets\Image to PDF 20250320 23.53.00\9.jpg" />
-            <img src="src\assets\Image to PDF 20250320 23.53.00\10.jpg" />
-            <img src="src\assets\Image to PDF 20250320 23.53.00\15.jpg" />
-            <img src="src\assets\Image to PDF 20250320 23.53.00\18.jpg" />
-            <img src="src\assets\Image to PDF 20250320 23.53.00\20.jpg" />
-            <img src="src\assets\Image to PDF 20250320 23.53.00\21.jpg" />
+            <img src="src\assets\Images\0.jpg" />
+            <img src="src\assets\Images\1.jpg" />
+            <img src="src\assets\Images\6.jpg" />
+            <img src="src\assets\images\8.jpg" />
+            <img src="src\assets\images\9.jpg" />
+            <img src="src\assets\images\10.jpg" />
+            <img src="src\assets\images\15.jpg" />
+            <img src="src\assets\images\18.jpg" />
+            <img src="src\assets\images\20.jpg" />
+            <img src="src\assets\images\21.jpg" />
         </div>
         
     </div>
